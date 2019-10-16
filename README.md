@@ -11,8 +11,6 @@ Implementation of grep command using python script
 
 commands:
 
--l --line-num =  print line number with output lines
-
 -r --recursive = search the path to search in recursively
 
 -i --ignore-case = ignore case sensitivity
